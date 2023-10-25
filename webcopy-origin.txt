@@ -1,0 +1,192 @@
+Uri: https://api.konect.gg/assets/thumbnails/websites/youtube-26b511a51cfc6e350fec4c133da4c1b327aab3f6bb6f7a9e8022dc9b1489a7fd.svg
+File Name: C:\Downloaded Web Sites\konect.gg\assets\thumbnails\websites\youtube-26b511a51cfc6e350fec4c133da4c1b327aab3f6bb6f7a9e8022dc9b1489a7fd.svg
+Content Type: image/svg+xml
+
+Uri: https://konect.gg/assets/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\konect.gg\assets\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://konect.gg/assets/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\konect.gg\assets\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://konect.gg/assets/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\konect.gg\assets\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://konect.gg/assets/favicon.ico
+File Name: C:\Downloaded Web Sites\konect.gg\assets\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://konect.gg/assets/images/LogoKonectLockup.svg
+File Name: C:\Downloaded Web Sites\konect.gg\assets\images\LogoKonectLockup.svg
+Content Type: image/svg+xml
+
+Uri: https://konect.gg/assets/manifest.json
+File Name: C:\Downloaded Web Sites\konect.gg\assets\manifest.json
+Content Type: application/json
+
+Uri: https://konect.gg/fonts/DrukWide-Bold.woff2
+File Name: C:\Downloaded Web Sites\konect.gg\fonts\DrukWide-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://konect.gg/fonts/DrukWide-Medium.woff2
+File Name: C:\Downloaded Web Sites\konect.gg\fonts\DrukWide-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://konect.gg/fonts/HelveticaNowText-Bold.woff2
+File Name: C:\Downloaded Web Sites\konect.gg\fonts\HelveticaNowText-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://konect.gg/fonts/HelveticaNowText-Medium.woff2
+File Name: C:\Downloaded Web Sites\konect.gg\fonts\HelveticaNowText-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://konect.gg/fonts/HelveticaNowText-Regular.woff2
+File Name: C:\Downloaded Web Sites\konect.gg\fonts\HelveticaNowText-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://konect.gg/kisele4ekyt
+File Name: C:\Downloaded Web Sites\konect.gg\kisele4ekyt.html
+Content Type: text/html
+
+Uri: https://konect.gg/kisele4ekyt/gears
+File Name: C:\Downloaded Web Sites\konect.gg\kisele4ekyt\gears.html
+Content Type: text/html
+
+Uri: https://konect.gg/_next/static/chunks/1929-a76da4f9abe4d0c3.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\1929-a76da4f9abe4d0c3.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/2457-32de5cc54ac47f10.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\2457-32de5cc54ac47f10.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/2688-c3bfcc8654fb342b.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\2688-c3bfcc8654fb342b.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/2749-bc97210b9c75b7b3.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\2749-bc97210b9c75b7b3.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/3412-4930027010dbef55.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\3412-4930027010dbef55.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/3695-24229b875ac14f6f.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\3695-24229b875ac14f6f.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/3793-9b49e2da8ae7824e.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\3793-9b49e2da8ae7824e.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/3906-54907274f49ebe54.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\3906-54907274f49ebe54.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/413-19fb96ed74e8669b.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\413-19fb96ed74e8669b.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/439df32f-58d4142c768b6334.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\439df32f-58d4142c768b6334.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/4642-02549517aa4dcb47.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\4642-02549517aa4dcb47.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/4810-b374a582e2a1dcd8.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\4810-b374a582e2a1dcd8.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/5154-4886ed8478833822.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\5154-4886ed8478833822.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/5665-1bf94a7c296c1b4b.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\5665-1bf94a7c296c1b4b.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/6117-03df3ca42b1be5f0.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\6117-03df3ca42b1be5f0.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/6543-05e086fb974ae760.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\6543-05e086fb974ae760.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/7579-508996ddf4a8b57c.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\7579-508996ddf4a8b57c.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/8073-2cbcf8c897652ace.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\8073-2cbcf8c897652ace.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/8187-3a78a6e3edd7c9f3.js
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\8187-3a78a6e3edd7c9f3.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/8326-2f086be1ebd09877.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\8326-2f086be1ebd09877.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/8696-39552d3e2c7c0132.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\8696-39552d3e2c7c0132.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/8712-80e68835baca3f84.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\8712-80e68835baca3f84.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/9731-a13e57a1e8f9d0e7.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\9731-a13e57a1e8f9d0e7.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/9916-a37ead99bc969076.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\9916-a37ead99bc969076.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/app/[slug]/[sectionType]/page-c58af4e856a637ca.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\app\[slug]\[sectionType]\page-c58af4e856a637ca.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/app/[slug]/layout-8ad72768233e14c5.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\app\[slug]\layout-8ad72768233e14c5.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/app/[slug]/page-6bb522c9c947fe44.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\app\[slug]\page-6bb522c9c947fe44.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/app/layout-2823003dac5c8203.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\app\layout-2823003dac5c8203.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/app/not-found-03ccd13bd2e7967a.js?dpl=dpl_HuPsobLLHjPMwwBzKrhzBQUeYTjN
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\app\not-found-03ccd13bd2e7967a.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/bf6a786c-0bc454cd4784e0da.js
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\bf6a786c-0bc454cd4784e0da.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/main-app-eff3121b14de59c8.js
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\main-app-eff3121b14de59c8.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/chunks/webpack-89e6ff72d250370e.js
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\chunks\webpack-89e6ff72d250370e.js
+Content Type: application/javascript
+
+Uri: https://konect.gg/_next/static/css/c47f22508aa78cd3.css
+File Name: C:\Downloaded Web Sites\konect.gg\_next\static\css\c47f22508aa78cd3.css
+Content Type: text/css
+

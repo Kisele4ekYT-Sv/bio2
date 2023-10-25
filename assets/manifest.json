@@ -1,0 +1,22 @@
+{
+  "name": "Konect",
+  "short_name": "Konect",
+  "description": "Create your personal gamer page to show everything you are. In one simple and beautiful place.",
+  "start_url": "https://konect.gg",
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffff3c",
+  "background_color": "#ffff3c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
